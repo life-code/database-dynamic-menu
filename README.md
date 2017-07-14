@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-   <a href="https://travis-ci.org/life-code/dynamic-menu"><img src="https://travis-ci.org/life-code/dynamic-menu.svg" alt="Build Status"></a>
-   <a href="https://packagist.org/packages/life-code/dynamic-menu"><img src="https://poser.pugx.org/life-code/dynamic-menu/d/total.svg" alt="Total Downloads"></a>
-   <a href="https://packagist.org/packages/life-code/dynamic-menu"><img src="https://poser.pugx.org/life-code/dynamic-menu/v/stable.svg" alt="Latest Stable Version"></a>
-   <a href="https://packagist.org/packages/life-code/dynamic-menu"><img src="https://poser.pugx.org/life-code/dynamic-menu/license.svg" alt="License"></a>
+   <a href="https://travis-ci.org/life-code/dynamic-menu"><img src="https://travis-ci.org/life-code/database-dynamic-menu.svg" alt="Build Status"></a>
+   <a href="https://packagist.org/packages/life-code/database-dynamic-menu"><img src="https://poser.pugx.org/life-code/database-dynamic-menu/d/total.svg" alt="Total Downloads"></a>
+   <a href="https://packagist.org/packages/life-code/database-dynamic-menu"><img src="https://poser.pugx.org/life-code/database-dynamic-menu/v/stable.svg" alt="Latest Stable Version"></a>
+   <a href="https://packagist.org/packages/life-code/database-dynamic-menu"><img src="https://poser.pugx.org/life-code/database-dynamic-menu/license.svg" alt="License"></a>
 </p>
 
 
